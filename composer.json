@@ -1,0 +1,16 @@
+{
+    "name": "amoreno/docker-dev",
+    "type": "project",
+    "require-dev": {
+        "kahlan/kahlan": "^3.1",
+        "behat/behat": "^3.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Angel S. Moreno",
+            "email": "angelxmoreno@gmail.com"
+        }
+    ],
+    "require": {}
+}
